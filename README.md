@@ -26,7 +26,7 @@ You should also know that this Privacy Policy Template is provided without any w
 
 License This Privacy Policy Template is licensed under the GNU General Public License, version 3 (GPLv3) and is distributed free of charge.
 
-Author Mohammed Ayesh
+Author Mohamad Ayesh Suleiman
 
 Email: mohammedayesh8410@gmail.com
 
